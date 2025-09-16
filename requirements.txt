@@ -1,0 +1,7 @@
+ollama
+langchain
+lamggraph
+gradio
+streamlit
+pandas
+numpy
